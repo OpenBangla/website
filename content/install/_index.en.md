@@ -11,7 +11,7 @@ description: "Install OpenBangla Keyboard"
 #### Ubuntu, Fedora and their derivatives
 Open your terminal and run this command on your bash shell. NB : It has to be **BASH**, otherwise it won't work.
 ```bash
-bash -c "$(wget -q https://raw.githubusercontent.com/OpenBangla/OpenBangla-Keyboard/master/tools/install.sh -O -)"
+bash -c "$(wget -q https://git.io/JUGB8 -O -)"
 ```
 
 If this does not workout for you please create an [Issue](https://github.com/OpenBangla/OpenBangla-Keyboard/issues). While we look into the problem you can check the [Wiki](https://github.com/OpenBangla/OpenBangla-Keyboard/wiki/Installing-OpenBangla-Keyboard) for Distrowise/Distro-specific Install Instructions.
