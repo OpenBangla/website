@@ -74,6 +74,7 @@ facebook= "https://www.facebook.com/openbanglakeyboard"
 twitter = "OpenBanglaTeam"
 github= "https://github.com/OpenBangla"
 mail= "mailto:openbanglateam@gmail.com"
+rss="https://openbangla.github.io/blog/index.xml"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
 
